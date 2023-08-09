@@ -49,9 +49,6 @@
 
 ### Связаться со мной:
 
-[youtube]: https://youtube.com/YauhenKavalchuk
-[instagram]: https://instagram.com/YauhenKavalchuk
-[linkedin]: https://linkedin.com/in/YauhenKavalchuk
 [vk]: https://vk.com/YauhenKavalchuk
 [twitter]: https://twitter.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join

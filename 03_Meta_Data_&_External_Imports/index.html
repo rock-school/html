@@ -25,11 +25,8 @@
   <!-- For mobile & no resize -->
   <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
 
-  <!-- Use latest version of IE -->
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
   <!-- For external styles -->
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="style.css">
 
   <!-- Local styles -->
   <style>
@@ -38,23 +35,30 @@
     }
   </style>
 
-  <!-- Local styles fonts -->
-	<link rel="stylesheet" href="styles.css">
 
   <!-- Google fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+
+    <style>
+        .inter-font {
+            font-family: "Inter", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-style: normal;
+        }
+    </style>
 
 </head>
 <body>
 
 
-  <!--[if IE]>
-   <p>This text you can see only in Internet Explorer</p>
- <![endif]-->
 
- <!--[if lt IE 10]>
-		<p>You will see this text only in IE9 and more later version</p>
-<![endif]-->
+    <p class="inter-font">This text you can see only in </p>
+    <p>You will see this text only in and more later version</p>
 
   <!-- External scripts files -->
   <script src="main.js"></script>
